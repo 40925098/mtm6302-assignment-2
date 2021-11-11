@@ -42,3 +42,4 @@ $container.addEventListener('click', function(event) {
   let image = event.target; 
   image.classList.toggle('imagegallerylarge');
 })
+
